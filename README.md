@@ -15,20 +15,26 @@ Delete Facilitator: Remove facilitator records from the system when no longer ne
 **Technologies Used**
 
 JavaScript
+
 Node.js
+
 Express.js
+
 MongoDB (for database storage)
 
 **Installation**
 
 Clone this repository: git clone https://github.com/emelyne1234/Facilitator_management_System.git
+
 Navigate to the project directory: cd facilitator-management-backend
+
 Install dependencies: npm install
 
 
 **Usage**
 
 Start the server: npm start
+
 Access the API endpoints using tools like Postman or your preferred API client.
 
 
